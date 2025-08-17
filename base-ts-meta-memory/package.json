@@ -13,7 +13,8 @@
   "keywords": [],
   "dependencies": {
     "@builderbot/bot": "1.2.9",
-    "@builderbot/provider-meta": "1.2.9"
+    "@builderbot/provider-meta": "1.2.9",
+    "mysql2": "^3.9.1"
   },
   "devDependencies": {
     "@types/node": "^20.19.9",
